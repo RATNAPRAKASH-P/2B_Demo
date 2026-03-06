@@ -1,0 +1,3 @@
+git is vcs tool
+git used to maintain scm
+git is standard tool to manage large scale projects
